@@ -1,9 +1,9 @@
 # Multi-Agent Story & Image Generation
 
-**Multi-agent (story + image generation)** system built with collaborative AI agents.
+**Multi-agent (story + image generation)** 
 
-<img src="ui_agents.png" alt="Example generated story + image output" width="600"/>
-<img src="ui_2.png" alt="Example generated story + image output" width="600"/>
+<img src="ui_agents.png" alt="Example generated story + image output" width="800"/>
+<img src="ui_2.png" alt="Example generated story + image output" width="800"/>
 
 
 ## What this project does
